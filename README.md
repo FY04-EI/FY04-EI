@@ -1,16 +1,30 @@
-## Hi there 👋
+# FY04-EI
 
-<!--
-**FY04-EI/FY04-EI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**From network security to AI security.**
 
-Here are some ideas to get you started:
+My background is in networks and cybersecurity: firewalling, segmentation, Linux systems.
+I am now extending that foundation to the security of AI systems: LLM applications, autonomous agents and machine learning pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This profile tracks a self-directed, project-based roadmap.
+Each phase ends with a public deliverable, not a number of hours spent.
+
+## Guiding principle
+
+You can't seriously attack an architecture you've never built.
+Every system I test, I build first.
+
+## Roadmap
+
+| Phase | Deliverable | Status |
+|---|---|---|
+| **1 · ML foundations** | micrograd | In progress |
+| | Image and text classifiers | Planned |
+| | nanoGPT | Planned |
+| **2 · Adversarial ML** | Attacks on my own models, with a technical report | Planned |
+| **3 · Build** | LLM application with retrieval and tools, with a threat model | Planned |
+| **4 · Red teaming** | Audit report | Planned |
+| **5 · Defense** | Hardening and guardrail evaluation | Planned |
+| **6 · Agentic security** | Agent attacks and out-of-model defense | Planned |
+| **7 · Governance** | Open-source project audit and compliance note | Planned |
+
+Deliverables are published in the pinned repositories below.
